@@ -8,7 +8,7 @@ class JpashopApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("Test");
+		System.out.println("############ Test Complete ############");
 	}
 
 }
